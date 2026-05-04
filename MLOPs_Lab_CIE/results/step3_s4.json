@@ -1,0 +1,16 @@
+{
+  "health_endpoint": "/health",
+  "predict_endpoint": "/infer",
+  "port": 8888,
+  "health_response": {
+    "status": "healthy",
+    "model_loaded": true
+  },
+  "test_input": {
+    "slope_degrees": 31.9,
+    "rainfall_mm": 315.3,
+    "soil_depth_m": 2.4,
+    "vegetation_index": 0.6
+  },
+  "prediction": 54.6953
+}

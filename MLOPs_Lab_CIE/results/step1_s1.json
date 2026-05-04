@@ -1,0 +1,18 @@
+{
+  "experiment_name": "geosurvey-land-stability-score",
+  "models": [
+    {
+      "name": "SVR",
+      "mae": 16.2106,
+      "rmse": 21.442
+    },
+    {
+      "name": "RandomForest",
+      "mae": 11.6939,
+      "rmse": 14.0344
+    }
+  ],
+  "best_model": "RandomForest",
+  "best_metric_name": "rmse",
+  "best_metric_value": 14.0344
+}

@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "geosurvey-land-stability-score-predictor",
+  "version": 1,
+  "run_id": "1527f2db0f7e4c70bd037d81436af26d",
+  "source_metric": "rmse",
+  "source_metric_value": 14.0344
+}
